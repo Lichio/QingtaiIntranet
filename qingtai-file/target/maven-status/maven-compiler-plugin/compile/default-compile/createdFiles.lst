@@ -1,0 +1,4 @@
+org\qingtai\file\utils\FileReaderUtil.class
+org\qingtai\file\download\DownloadMethod.class
+org\qingtai\file\upload\UploadMethod.class
+org\qingtai\file\entity\FileLocation.class

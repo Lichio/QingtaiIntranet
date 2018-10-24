@@ -1,0 +1,4 @@
+org\qingtai\email\entity\EmailMetaData.class
+org\qingtai\email\entity\RegisterMetaData.class
+org\qingtai\email\main\BaseSend.class
+org\qingtai\email\main\ExternalSend.class
