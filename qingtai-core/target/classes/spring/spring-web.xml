@@ -13,7 +13,7 @@
                      http://www.springframework.org/schema/aop
                      http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-    <!-- 注解驱动支持，利用注解实现Bean的注入 -->
+       <!-- 注解驱动支持，利用注解实现Bean的注入 -->
        <context:annotation-config  />
 
        <!-- 自动扫描并自动注入Bean，通过扫描类路径中的特殊注解类来自动注册Bean定义 -->
